@@ -19,7 +19,7 @@ html {
 /* Fundo-tela */
 
 body {
-    background: linear-gradient(rgba(17, 17, 17, 0.8), rgba(20, 20, 20, 1)), url(/img/Academia.png);
+    background: linear-gradient(rgba(17, 17, 17, 0.8), rgba(20, 20, 20, 1)), url(/img/academia.png);
     background-position: center center;
     background-size: cover;
     background-position-y: 0px;
